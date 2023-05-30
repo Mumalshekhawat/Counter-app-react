@@ -1,0 +1,22 @@
+body {
+  background: lightblue;
+}
+.App {
+  text-align: center;
+}
+.counter {
+  font-size: larger;
+  color: darkblue;
+}
+#button1:hover {
+  background-color: cornflowerblue;
+}
+#button2:hover {
+  background-color: cornflowerblue;
+}
+#button3:hover {
+  background-color: cornflowerblue;
+}
+#button4:hover {
+  background-color: cornflowerblue;
+}
